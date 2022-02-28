@@ -1,0 +1,7 @@
+Nimra - salesman
+Sidra - salesman
+Aqsa - Receptionist
+Hadia - Manager
+Sania - Accountant
+
+Kelly - Customer Service
